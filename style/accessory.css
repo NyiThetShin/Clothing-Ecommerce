@@ -1,0 +1,13 @@
+.accessory_discount{
+    background-image: url(../image/moises-gonzalez-RNUXJPG8KE0-unsplash.jpg);
+}
+.second_accessory{
+    background-image: url(../image/samar-ahmad--nKCbZlOHek-unsplash.jpg);
+}
+
+.explore_main_ctn{
+    background: url(../image/samar-ahmad--nKCbZlOHek-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
