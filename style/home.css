@@ -251,17 +251,17 @@ body{
      
     }
        .product_one{
-        background-image: url(/image/mh-1-4-shirts-1641412573.png);
+        background-image: url(image/mh-1-4-shirts-1641412573.png);
         
     }
     .product_two{
-        background-image: url(/image/mnz-m1m2EZOZVwA-unsplash.jpg);
+        background-image: url(image/mnz-m1m2EZOZVwA-unsplash.jpg);
     }
     .product_three{
-        background-image: url(/image/martin-de-arriba-uf_IDewI6iQ-unsplash.jpg);
+        background-image: url(image/martin-de-arriba-uf_IDewI6iQ-unsplash.jpg);
     }
     .product_four{
-        background-image: url(/image/erik-mclean-e_qqXYMDyfM-unsplash.jpg);
+        background-image: url(image/erik-mclean-e_qqXYMDyfM-unsplash.jpg);
     }
     .product_three,.product_four{
         width: 16vw;
