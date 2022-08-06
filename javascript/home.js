@@ -11,7 +11,7 @@ let homeSearch = document.querySelector('.home_search');
 
 
 homeSearch.addEventListener('click', () => {
-    window.location.href = "search.html";
+    window.location.href = "./html/search.html";
 })
 
 
