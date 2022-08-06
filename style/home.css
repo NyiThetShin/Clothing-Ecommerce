@@ -480,13 +480,13 @@ body{
         margin-top: 20px;
     }
     .summer_season{
-        background-image: url(/image/tamara-bellis-68csPWTnafo-unsplash.jpg);
+        background-image: url(../image/tamara-bellis-68csPWTnafo-unsplash.jpg);
         display: flex;
         justify-content: flex-end;
         align-items: center;
     }
      .winter_season{
-        background-image: url(/image/joshua-hanson-pQm90mYMnt0-unsplash.jpg);
+        background-image: url(../image/joshua-hanson-pQm90mYMnt0-unsplash.jpg);
         display: flex;
         justify-content: flex-start;
         align-items: center;
