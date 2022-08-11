@@ -338,13 +338,16 @@ body{
             justify-content: space-between;
             align-items: center;
         }
-        .clothing_show{
+        .clothing_show,.clothing_show_two,.clothing_show_three{
     width: 100%;
     padding: 10px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
 
+}
+.cloth_active{
+    display: flex;
 }
 .show_card{
     margin-right: 10px;
