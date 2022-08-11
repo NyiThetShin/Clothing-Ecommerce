@@ -344,7 +344,7 @@ body{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-
+    display:none;
 }
 .cloth_active{
     display: flex;
